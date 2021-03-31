@@ -1,0 +1,7 @@
+# Java Stuff
+*.class
+/target
+/build
+
+# Python Stuff
+__pycache__
